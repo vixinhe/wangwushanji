@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vixinhe.github.io/wangwushanji/sitemap.xml
